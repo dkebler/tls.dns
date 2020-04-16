@@ -1,4 +1,4 @@
-module github.com/caddyserver/tls.dns
+module github.com/dkebler/tls.dns
 
 go 1.13
 
